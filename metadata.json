@@ -1,10 +1,12 @@
 {
   "name": "capsi-resources",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "CAPSI Informatique",
   "summary": "Allow creating resources directly from Hiera",
   "license": "Apache-2.0",
   "source": "https://github.com/capsi-informatique/puppet-resources",
+  "project_page": "https://github.com/capsi-informatique/puppet-resources",
+  "issues_url": "https://github.com/capsi-informatique/puppet-resources/issues",
   "dependencies": [
 
   ],
