@@ -1,0 +1,15 @@
+---
+classes:
+  - resources
+
+resources:
+  file_line:
+    enable-sysstat:
+      path: '/etc/default/sysstat'
+      line: 'ENABLED="true"'
+      match: '^ENABLED='
+  sysctl:
+    "vm.swappiness":
+      value: 5
+    "kernel.shmmni":
+      value: 8192
