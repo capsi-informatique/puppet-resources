@@ -67,7 +67,7 @@ resources:
 
 You can check the [examples/hiera.yaml](examples/hiera.yaml) for a real world examples
 
-## Release Notes/Contributors/Etc. **Optional**
+## Release Notes/Contributors/Etc.
 
 ### Release 1.0.0
 
